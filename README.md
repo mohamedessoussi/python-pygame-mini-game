@@ -1,12 +1,35 @@
-# python-pygame-mini-game
-A 2D mini game developed using Python and Pygame, featuring interactive gameplay and a graphical user interface.
-# 🎮 Python Pygame Mini Game
+# 🎮 2D Shooting Game
 
-## 📌 About
-A 2D mini game developed using Python and Pygame.
+A 2D shooting game developed using Python and Pygame.
+
+## 📌 About The Project
+
+This project is a 2D action game where the player controls a character, moves through the game environment, jumps, and shoots enemies to increase the score.
+
+## ✨ Features
+
+- Player movement and jumping.
+- Enemy system.
+- Shooting mechanics.
+- Collision detection.
+- Score tracking.
+- Main menu.
+- Restart functionality.
+- Win and game-over states.
+
+## 🎮 Controls
+
+| Key | Action |
+|---|---|
+| ← / A | Move left |
+| → / D | Move right |
+| ↑ | Jump |
+| S | Shoot in facing direction |
+| F | Shoot forward |
 
 ## 🛠️ Technologies
-- Python
+
+- Python 3
 - Pygame
 
 ## ⚙️ Installation
@@ -18,7 +41,7 @@ A 2D mini game developed using Python and Pygame.
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pygame
    ```
 
 3. Run the game:
@@ -26,3 +49,8 @@ A 2D mini game developed using Python and Pygame.
    python main.py
    ```
 
+## 👨‍💻 Author
+
+**Essoussi Mohamed**
+
+Developed as a Python game development project.
